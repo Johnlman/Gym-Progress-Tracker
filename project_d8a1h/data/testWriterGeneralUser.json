@@ -1,0 +1,22 @@
+{
+    "name": "John",
+    "GymSessions": [{
+        "Exercises List": [
+            {
+                "Exercise Name": "Bench",
+                "Sets": [{
+                    "reps": 10,
+                    "Weight": 100
+                }]
+            },
+            {
+                "Exercise Name": "Squat",
+                "Sets": [{
+                    "reps": 10,
+                    "Weight": 100
+                }]
+            }
+        ],
+        "Date": "0/0/0"
+    }]
+}

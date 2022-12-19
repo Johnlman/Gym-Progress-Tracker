@@ -1,0 +1,71 @@
+{
+    "name": "John",
+    "GymSessions": [
+        {
+            "Exercises List": [
+                {
+                    "Exercise Name": "Bench",
+                    "Sets": [
+                        {
+                            "reps": 10,
+                            "Weight": 100
+                        },
+                        {
+                            "reps": 1,
+                            "Weight": 1000
+                        }
+                    ]
+                },
+                {
+                    "Exercise Name": "Squat",
+                    "Sets": []
+                }
+            ],
+            "Date": "1/1/1"
+        },
+        {
+            "Exercises List": [{
+                "Exercise Name": "Bench",
+                "Sets": [{
+                    "reps": 1,
+                    "Weight": 1111
+                }]
+            }],
+            "Date": "1/1/1"
+        },
+        {
+            "Exercises List": [{
+                "Exercise Name": "Bench",
+                "Sets": [{
+                    "reps": 1,
+                    "Weight": 1
+                }]
+            }],
+            "Date": "1/1/1"
+        },
+        {
+            "Exercises List": [{
+                "Exercise Name": "Bench",
+                "Sets": [{
+                    "reps": 1,
+                    "Weight": 1000
+                }]
+            }],
+            "Date": "1/1/1"
+        },
+        {
+            "Exercises List": [{
+                "Exercise Name": "Bench",
+                "Sets": [{
+                    "reps": 1,
+                    "Weight": 1
+                }]
+            }],
+            "Date": "1/1/1"
+        }
+    ],
+    "PersonalRecords": [
+        {"Bench": 1},
+        {"Squat": 0}
+    ]
+}
